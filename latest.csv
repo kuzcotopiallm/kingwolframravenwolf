@@ -1,4 +1,4 @@
-Rank,Model,Size,Format,Quant,Context,Prompt,1st Score,2nd Score,OK,+/-
+Rank,Model,Size,Format,Quant,Context,Prompt,1st Score,2nd Score,OK,+/-,
 1 🆕,[claude-3-opus-20240229](https://www.anthropic.com/claude),Claude 3 Opus,API,,,,18/18 ✓,18/18 ✓,✗,✓,
 1,[GPT-4](https://www.reddit.com/r/LocalLLaMA/comments/18yp9u4/llm_comparisontest_api_edition_gpt4_vs_gemini_vs/),GPT-4,API,,,,18/18 ✓,18/18 ✓,✓,✓,
 1 🆕,[mistral-large-2402](https://mistral.ai/),Mistral,API,,,,18/18 ✓,18/18 ✓,✗,✗,
