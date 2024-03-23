@@ -1,3 +1,3 @@
-Rank,Model,Size,Format,Quant,Context,Prompt,1st Score,2nd Score,OK,"+/-" 
+Rank,Model,Size,Format,Quant,Context,Prompt,1st Score,2nd Score,OK,+/- 
 1 🆕,[claude-3-opus-20240229](https://www.anthropic.com/claude),Claude 3 Opus,API,,,,18/18 ✓,18/18 ✓,✗,✓
 
